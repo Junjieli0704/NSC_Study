@@ -1,3 +1,7 @@
+This repository is used to study NSC codes, which can be downloaded from https://github.com/thunlp/NSC
+
+
+
 Neural Sentiment Classification
 ==========
 
